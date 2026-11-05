@@ -1,6 +1,6 @@
 # linux-administration-lab
 
-EN
+## EN
 # Linux Administration Lab
 
 ## About the Project
@@ -42,7 +42,7 @@ IT enthusiast interested in Linux administration, networking and cybersecurity.
 
 This project is part of my personal IT portfolio.
 
-PL
+## PL
 
 # Administracja systemami Linux
 
