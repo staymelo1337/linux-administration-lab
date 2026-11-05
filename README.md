@@ -28,18 +28,6 @@ The project covers the following areas:
 - System logs analysis
 - SSH configuration and remote access
 
-## Practical Exercises
-
-| Exercise | Status |
-|---|---|
-| System information gathering | In progress |
-| User and group management | Planned |
-| File permissions management | Planned |
-| Network diagnostics | Planned |
-| Process management | Planned |
-| System logs analysis | Planned |
-| SSH configuration | Planned |
-
 ## Documentation
 
 Each exercise will include:
@@ -53,3 +41,47 @@ Each exercise will include:
 IT enthusiast interested in Linux administration, networking and cybersecurity.
 
 This project is part of my personal IT portfolio.
+
+PL
+
+# Administracja systemami Linux
+
+## O projekcie
+
+Niniejsze repozytorium stanowi zapis mojej praktycznej ścieżki nauki administrowania systemem Linux z wykorzystaniem dystrybucji Fedora Linux.
+
+Głównym celem tego projektu jest rozwój praktycznych umiejętności w zakresie konfiguracji systemu, zarządzania użytkownikami, uprawnień do plików, diagnostyki sieci oraz podstawowej administracji serwerami.
+
+## Środowisko
+
+- **System Operacyjny:** Fedora Linux
+- **Shell:** Bash
+- **Narzędzia:** Linux Terminal, system administration utilities
+
+## Umiejętności i zagadnienia
+
+Projekt obejmuje następujące obszary:
+
+- Informacje o systemie Linux i jego monitorowanie
+- Zarządzanie użytkownikami i grupami
+- Uprawnienia do plików i katalogów
+- Nawigacja w systemie plików oraz zarządzanie nimi
+- Konfiguracja sieci i rozwiązywanie problemów sieciowych
+- Zarządzanie procesami
+- Analiza logów systemowych
+- Konfiguracja SSH
+
+## Dokumentacja
+
+Każde ćwiczenie będzie zawierać:
+- Użyte polecenia
+- Wyjaśnienie konfiguracji lub zadania
+- Zrzuty ekranu z wykonanych czynności
+- Napotkane problemy oraz sposoby ich rozwiązania
+
+## Autor
+
+Entuzjasta IT, zainteresowany administracją systemami Linux, sieciami komputerowymi oraz cyberbezpieczeństwem.
+
+Projekt ten stanowi część mojego portfolio IT.
+
